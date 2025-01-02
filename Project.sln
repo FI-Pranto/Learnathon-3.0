@@ -5,7 +5,9 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitiveTypesAndExpressions", "PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions.csproj", "{1AD7CBC5-8D95-4EEC-B820-52F22DD2A557}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitiveType(Class)", "PrimitiveType(Class)\PrimitiveType(Class).csproj", "{3BB47F03-F109-4A41-BC63-674062AFFCB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonPrimitiveType(Class)", "PrimitiveType(Class)\NonPrimitiveType(Class).csproj", "{3BB47F03-F109-4A41-BC63-674062AFFCB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonPrimitiveArrayStringEnum", "NonPrimitiveArrayStringEnum\NonPrimitiveArrayStringEnum.csproj", "{C0A03BA6-E12F-41AD-965B-4AB73CEA34C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3BB47F03-F109-4A41-BC63-674062AFFCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BB47F03-F109-4A41-BC63-674062AFFCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BB47F03-F109-4A41-BC63-674062AFFCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0A03BA6-E12F-41AD-965B-4AB73CEA34C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A03BA6-E12F-41AD-965B-4AB73CEA34C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A03BA6-E12F-41AD-965B-4AB73CEA34C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A03BA6-E12F-41AD-965B-4AB73CEA34C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

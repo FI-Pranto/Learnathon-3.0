@@ -2,7 +2,7 @@
 using System;
 using PrimitiveMath;
 
-namespace PrimitiveType_Class_
+namespace NonPrimitiveType_Class_
 {
     internal class Program
     {
