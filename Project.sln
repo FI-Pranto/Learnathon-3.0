@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonPrimitiveType(Class)", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonPrimitiveArrayStringEnum", "NonPrimitiveArrayStringEnum\NonPrimitiveArrayStringEnum.csproj", "{C0A03BA6-E12F-41AD-965B-4AB73CEA34C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonPrimitiveValueAndReferenceType", "NonPrimitiveValueAndReferenceType\NonPrimitiveValueAndReferenceType.csproj", "{758C2791-A509-436A-9E22-BDDE4C58B4EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C0A03BA6-E12F-41AD-965B-4AB73CEA34C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0A03BA6-E12F-41AD-965B-4AB73CEA34C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0A03BA6-E12F-41AD-965B-4AB73CEA34C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758C2791-A509-436A-9E22-BDDE4C58B4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758C2791-A509-436A-9E22-BDDE4C58B4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758C2791-A509-436A-9E22-BDDE4C58B4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758C2791-A509-436A-9E22-BDDE4C58B4EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
