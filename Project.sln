@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitiveTypesAndExpressions", "PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions.csproj", "{1AD7CBC5-8D95-4EEC-B820-52F22DD2A557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitiveType(Class)", "PrimitiveType(Class)\PrimitiveType(Class).csproj", "{3BB47F03-F109-4A41-BC63-674062AFFCB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1AD7CBC5-8D95-4EEC-B820-52F22DD2A557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AD7CBC5-8D95-4EEC-B820-52F22DD2A557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AD7CBC5-8D95-4EEC-B820-52F22DD2A557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB47F03-F109-4A41-BC63-674062AFFCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB47F03-F109-4A41-BC63-674062AFFCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB47F03-F109-4A41-BC63-674062AFFCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB47F03-F109-4A41-BC63-674062AFFCB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
