@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonPrimitiveValueAndReferen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{59EC2C75-2113-48A0-B0DB-1183001A194F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAndList", "ArrayAndList\ArrayAndList.csproj", "{8B5065D2-A821-4ACA-BE51-E665F29D691C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{59EC2C75-2113-48A0-B0DB-1183001A194F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59EC2C75-2113-48A0-B0DB-1183001A194F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59EC2C75-2113-48A0-B0DB-1183001A194F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5065D2-A821-4ACA-BE51-E665F29D691C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5065D2-A821-4ACA-BE51-E665F29D691C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5065D2-A821-4ACA-BE51-E665F29D691C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5065D2-A821-4ACA-BE51-E665F29D691C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
