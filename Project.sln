@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithDates", "Working
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithText", "WorkingWithText\WorkingWithText.csproj", "{DCE0B34B-6681-43D1-A4C0-49EC1687BBCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithFile", "WorkingWithFile\WorkingWithFile.csproj", "{0E495D11-0987-478C-A951-5B819ABCA7E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{DCE0B34B-6681-43D1-A4C0-49EC1687BBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCE0B34B-6681-43D1-A4C0-49EC1687BBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCE0B34B-6681-43D1-A4C0-49EC1687BBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E495D11-0987-478C-A951-5B819ABCA7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E495D11-0987-478C-A951-5B819ABCA7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E495D11-0987-478C-A951-5B819ABCA7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E495D11-0987-478C-A951-5B819ABCA7E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
