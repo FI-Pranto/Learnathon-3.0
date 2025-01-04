@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes(Constructors)", "Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes(PropertiesAndIndexers)", "Classes(PropertiesAndIndexers)\Classes(PropertiesAndIndexers).csproj", "{23FCA106-BDCB-4EED-BF5D-496557D1340B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes(Methods)", "Classes(Methods)\Classes(Methods).csproj", "{D1316353-6095-4FEA-9E5F-48A66E225FAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{23FCA106-BDCB-4EED-BF5D-496557D1340B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23FCA106-BDCB-4EED-BF5D-496557D1340B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23FCA106-BDCB-4EED-BF5D-496557D1340B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1316353-6095-4FEA-9E5F-48A66E225FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1316353-6095-4FEA-9E5F-48A66E225FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1316353-6095-4FEA-9E5F-48A66E225FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1316353-6095-4FEA-9E5F-48A66E225FAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
