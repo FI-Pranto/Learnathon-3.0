@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes(Methods)", "Classes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition", "Composition\Composition.csproj", "{393AB9C6-4CD6-4A78-B948-E29785E58D8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ploymorphism(MethodOverridingAndAbstract)", "Ploymorphism(MethodOverridingAndAbstract)\Ploymorphism(MethodOverridingAndAbstract).csproj", "{60A7C1DF-DE17-497C-B499-D50DCEE5FE47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{393AB9C6-4CD6-4A78-B948-E29785E58D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{393AB9C6-4CD6-4A78-B948-E29785E58D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{393AB9C6-4CD6-4A78-B948-E29785E58D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A7C1DF-DE17-497C-B499-D50DCEE5FE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A7C1DF-DE17-497C-B499-D50DCEE5FE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A7C1DF-DE17-497C-B499-D50DCEE5FE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A7C1DF-DE17-497C-B499-D50DCEE5FE47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
