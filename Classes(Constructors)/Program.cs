@@ -6,9 +6,17 @@
         
         static void Main(string[] args)
         {
-            Enemey drone = new Enemey("Drone",100);
+            Enemy drone = new Enemy("Drone",100);
 
             Console.WriteLine("{0} {1}",drone.name,drone.hpLevel);
+
+            //Object initializations
+            Enemy enemy = new Enemy()
+            {
+                name="Kai",
+                hpLevel=200
+            };
+            Console.WriteLine("{0} {1}",enemy.name,enemy.hpLevel);
          
 
 

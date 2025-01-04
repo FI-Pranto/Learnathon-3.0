@@ -1,24 +1,28 @@
 ﻿namespace Classes_Constructors_
 {
-    class Enemey
+    class Enemy
     {
        public string name;
        public int hpLevel;
-        List<int> targets;
+       public readonly List<int> targets;
 
 
-        public Enemey()//ctor is shortcut to create constructor
+        public Enemy()//ctor is shortcut to create constructor
         {
-            targets=new List<int>();
+           targets=new List<int>();
             
         }
+      /*  void Hello() //Shows error because the list is readonly means only initialized inside constructor or when declared
+        {
+            targets = new List<int>();
+        }*/
 
-        public Enemey(int hpLevel)
+        public Enemy(int hpLevel)
             :this()
         {
             this.hpLevel = hpLevel;
         }
-        public Enemey(string name,int hpLevel)
+        public Enemy(string name,int hpLevel)
             :this(hpLevel)
         {
             this.name = name;
