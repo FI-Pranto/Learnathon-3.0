@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastingAndDowncasting", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndUnboxing", "BoxingAndUnboxing\BoxingAndUnboxing.csproj", "{1CFCF341-37E9-4A20-9FB6-D19795E9AC98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAndPolymorphisom", "InterfaceAndPolymorphisom\InterfaceAndPolymorphisom.csproj", "{70D7A2BA-F2AD-4FE7-A7C3-5D6394B16276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{1CFCF341-37E9-4A20-9FB6-D19795E9AC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CFCF341-37E9-4A20-9FB6-D19795E9AC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CFCF341-37E9-4A20-9FB6-D19795E9AC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D7A2BA-F2AD-4FE7-A7C3-5D6394B16276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D7A2BA-F2AD-4FE7-A7C3-5D6394B16276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D7A2BA-F2AD-4FE7-A7C3-5D6394B16276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D7A2BA-F2AD-4FE7-A7C3-5D6394B16276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
