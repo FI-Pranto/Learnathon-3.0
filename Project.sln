@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#AdancedTopicsDelegates", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#AdvancedTopicsLamdaExpression", "C#AdvancedTopicsLamdaExpression\C#AdvancedTopicsLamdaExpression.csproj", "{A513FB62-BA24-48A7-AD41-245E05273890}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#AdvancedTopicsEvents", "C#AdvancedTopicsEvents\C#AdvancedTopicsEvents.csproj", "{18EB73D9-ABBB-4A56-83FF-E552B3F1854C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{A513FB62-BA24-48A7-AD41-245E05273890}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A513FB62-BA24-48A7-AD41-245E05273890}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A513FB62-BA24-48A7-AD41-245E05273890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18EB73D9-ABBB-4A56-83FF-E552B3F1854C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EB73D9-ABBB-4A56-83FF-E552B3F1854C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EB73D9-ABBB-4A56-83FF-E552B3F1854C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EB73D9-ABBB-4A56-83FF-E552B3F1854C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
