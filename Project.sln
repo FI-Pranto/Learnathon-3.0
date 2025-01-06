@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAndPolymorphisom",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAndExtensibility", "InterfaceAndExtensibility\InterfaceAndExtensibility.csproj", "{ED13C0C1-C290-48B6-ACF9-AF044844DA2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#AdvancedTopicsGenerics", "C#AdvancedTopicsGenerics\C#AdvancedTopicsGenerics.csproj", "{6A9DA8AC-4C1F-4D31-BDA3-CF204F191AC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{ED13C0C1-C290-48B6-ACF9-AF044844DA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED13C0C1-C290-48B6-ACF9-AF044844DA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED13C0C1-C290-48B6-ACF9-AF044844DA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9DA8AC-4C1F-4D31-BDA3-CF204F191AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9DA8AC-4C1F-4D31-BDA3-CF204F191AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9DA8AC-4C1F-4D31-BDA3-CF204F191AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9DA8AC-4C1F-4D31-BDA3-CF204F191AC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
