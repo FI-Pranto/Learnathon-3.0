@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#AdvancedTopicsExceptionHa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#AdvancedTopicsLinq", "C#AdvancedTopicsLinq\C#AdvancedTopicsLinq.csproj", "{1BF39D4D-BF90-41D6-A6FD-2960DDD33E69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#AdvancedTopicsAsyncAwait", "C#AdvancedTopicsAsyncAwait\C#AdvancedTopicsAsyncAwait.csproj", "{964CF93D-E370-414B-9697-444A169FBBBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{1BF39D4D-BF90-41D6-A6FD-2960DDD33E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BF39D4D-BF90-41D6-A6FD-2960DDD33E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BF39D4D-BF90-41D6-A6FD-2960DDD33E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964CF93D-E370-414B-9697-444A169FBBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964CF93D-E370-414B-9697-444A169FBBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964CF93D-E370-414B-9697-444A169FBBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964CF93D-E370-414B-9697-444A169FBBBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
